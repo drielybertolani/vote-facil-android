@@ -31,6 +31,6 @@ public class MainActivity extends Activity {
 		webView.getSettings().setAllowContentAccess(true);
 		webView.getSettings().setDomStorageEnabled(true);
 		webView.getSettings().setDatabaseEnabled(true);
-		webView.loadUrl("http://drielybertolani.github.io/votafacil/home.html");
+		webView.loadUrl("http://drielybertolani.github.io/votefacil/home.html");
 	}
 }
